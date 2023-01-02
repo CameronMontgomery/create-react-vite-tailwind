@@ -1,7 +1,7 @@
 # Create React, Vite, TailwindCSS, and ESLint App
 
 <p align="center">
-<img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/react.svg" width="125" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/plus-sign-white-tb.svg" width="60" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/vite.svg" width="125" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/plus-sign-white-tb.svg" width="60" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/tailwind-logo.svg" width="125" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/plus-sign-white-tb.svg" width="60" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/eslint.svg" width="125" align="center">
+<img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/react.svg" width="125" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/plus-sign-white-tb.svg" width="60" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/vite.svg" width="125" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/plus-sign-white-tb.svg" width="60" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/tailwindcss.svg" width="125" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/plus-sign-white-tb.svg" width="60" align="center"><img src="https://github.com/Tribalash/create-react-vite-tailwind/blob/main/src/assets/eslint.svg" width="125" align="center">
 </p>
 
 <div align="right">
@@ -14,7 +14,7 @@
 
 While Vite already offers a very easy setup when compared to something like Webpack there is some configuration needed especially if you would like to use ESLint. This project aims to provide a fast and easy way to get going on your next project. The project uses a un-opinionated ESLint setting to aid development and Prettier for formatting. In addition this project uses TailwindCSS and the TailwindCSS Prettier plugin which automatically orders Tailwind class names
 
-If you are looking for a template that without TailwindCSS, you can find it [here](https://github.com/Tribalash/create-react-vite).
+If you are looking for a template without TailwindCSS, you can find it [here](https://github.com/Tribalash/create-react-vite).
 
 ## Setup & Configuration
 After you copy the template make sure to run ```npm install```
