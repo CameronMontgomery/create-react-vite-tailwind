@@ -1,11 +1,7 @@
 import { createRoot } from "react-dom/client";
 
 const App = () => {
-  return (
-    <div className="p-4 text-red-700 m-2">
-      React + Vite
-    </div>
-  );
+  return <div className="m-2 p-4 text-red-700">React + Vite</div>;
 };
 
 const container = document.getElementById("root");
