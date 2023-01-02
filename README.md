@@ -12,7 +12,7 @@
 
 ## Overview
 
-While Vite already offers a very easy setup when compared to something like Webpack there is some configuration needed especially if you would like to use ESLint. This project aims to provide a fast and easy way to get going on your next project. The project uses a un-opinionated ESLint setting to aid development and Prettier for formatting. In addition this project uses TailwindCSS and the TailwindCSS Prettier plugin which automatically orders Tailwind class names
+While Vite already offers a very easy setup when compared to something like Webpack, there is some configuration needed, especially if you would like to use ESLint. This project aims to provide a fast and easy way to get going on your next project. The project uses an un-opinionated ESLint setting to aid development and Prettier for formatting. In addition, this project uses TailwindCSS and the TailwindCSS Prettier plug-in which automatically orders Tailwind class names.
 
 If you are looking for a template without TailwindCSS, you can find it [here](https://github.com/CameronMontgomery/create-react-vite).
 
