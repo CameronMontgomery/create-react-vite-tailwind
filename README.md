@@ -19,9 +19,9 @@ If you are looking for a template without TailwindCSS, you can find it [here](ht
 ## Setup & Configuration
 After you copy the template make sure to run ```npm install```
 
-No configuration or setup is neccisary, however, if you would like to change the default Prettier formatting rules you can in .prettier.config.js
+No configuration or setup is necessary; however, if you would like to change the default Prettier formatting rules you can in .prettier.config.js
 
-If the automatic ordering of Tailwind classes via Prettier is not working after installing the plugin, restart VSCode and it should function fine.
+If the automatic ordering of Tailwind classes via Prettier is not working after installing the plug-in, restart VSCode and it should function fine. 
 
 ## Scripts
 
